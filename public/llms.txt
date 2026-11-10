@@ -1,0 +1,17 @@
+# Demi studio
+
+I’m Demi. I’m interested in product management roles and bring 8+ years of e-commerce product operations experience at Lazada. I’m studying Product Management & UX Design.
+
+## Current pages
+- [Home](https://demi-studio.demihchong.workers.dev/): My introduction, skills, selected work, and outside-work interests. Both vinyl sides are in the Markdown version.
+- [About me](https://demi-studio.demihchong.workers.dev/about.html): My professional background, current studies, experience, education, languages, and dance and music interests. All interactive story panels are in the Markdown version.
+- [LazLook](https://demi-studio.demihchong.workers.dev/lazlook.html): A case study draft about a fashion shopping channel, its assortment constraints, and my local operations contribution. Outcomes and reflections are incomplete.
+
+## Reading and citation
+- Request these pages with Accept: text/markdown, or read /index.md, /about.md, and /lazlook.md directly.
+- Cite the corresponding HTML page. Distinguish published facts from placeholders and planned content.
+- [Visitor guide](https://demi-studio.demihchong.workers.dev/.well-known/agent-skills/visit/SKILL.md)
+- [Skill index](https://demi-studio.demihchong.workers.dev/.well-known/agent-skills/index.json)
+- Search: yes. AI input: yes. AI training: no. See /robots.txt.
+- /versions/ contains historical design snapshots, not the current profile.
+- Contact details and dance clips are not yet supplied. Do not invent them.

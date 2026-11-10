@@ -1,0 +1,68 @@
+# Demi studio
+
+Both sides of the homepage are included below.
+
+## Hi, I’m Demi!
+
+I’m interested in product management roles where I can bring 8+ years of e-commerce product operations experience at Lazada. I’m now studying Product Management & UX Design, with a focus on search, discovery, and seller growth.
+
+Outside work and class, I enjoy soul dance and popping. Soul, funk, R&B, and jazz are part of the mix.
+
+[Explore my work](https://demi-studio.demihchong.workers.dev/index.html#work)
+
+[See the clips](https://demi-studio.demihchong.workers.dev/index.html#outside)
+
+- A/B test analysis
+
+- Funnel analysis
+
+- Cross-functional collaboration
+
+01 / The work 
+
+## On the record.
+
+- [A1 LazLook Fashion discovery · Local operations & rollout Case study draft · read the story](https://demi-studio.demihchong.workers.dev/lazlook.html)
+
+- A2 Next chapter. Class project · title, brief & findings to add Future case study · coming soon
+
+## A little context?
+
+The work is one part of the story.
+
+[Search & discovery](https://demi-studio.demihchong.workers.dev/about.html#search) [What I’m learning](https://demi-studio.demihchong.workers.dev/about.html#learning) [Outside work](https://demi-studio.demihchong.workers.dev/about.html#outside)
+
+02 / The other side 
+
+## There’s usually music.
+
+I enjoy soul dance and popping, with soul, funk, R&B, and jazz in the mix.
+
+A few moments outside work and class. There’s space here for soul dance and popping clips, with room for the story behind each one.
+
+- Soul
+
+- Funk
+
+- R&B
+
+- Jazz
+
+B1 / Soul dance Clip coming soon
+
+B2 / Popping Clip coming soon
+
+Dance clips coming soon.
+
+03 / Stay in touch 
+
+## Keep in touch.
+
+Contact details coming soon.
+
+- LinkedIn · link to add
+
+- Email · address to add
+
+---
+Source: https://demi-studio.demihchong.workers.dev/index.html

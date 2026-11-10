@@ -1,0 +1,12 @@
+{
+  "name": "demi-studio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "check:deploy": "wrangler deploy --dry-run"
+  },
+  "devDependencies": {
+    "wrangler": "^4.160.0"
+  }
+}

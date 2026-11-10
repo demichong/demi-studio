@@ -31,3 +31,7 @@ L1 · from [source] · [kept, changed or mine] · "[why, in my words]"
 ## Putting the site online
 
 Cloudflare Workers, set in `wrangler.jsonc`. Use Cloudflare's own skills and docs; run Wrangler as `npx wrangler`, never a global install. The address that matters is my `workers.dev` address. For agent features that need it (markdown for agents, headers, an MCP endpoint), a small Worker script can sit in front of `public/`; the pages still live in `public/`.
+
+## Keeping agent pages current
+
+When changing public page content, update its matching Markdown copy and llms.txt if the page list changes. Preserve draft labels and distinguish personal contribution from team ownership. policy.md records Demi’s approved Content Signals.
