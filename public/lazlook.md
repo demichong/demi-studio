@@ -1,60 +1,72 @@
-[← Selected work](https://demi-studio.demihchong.workers.dev/index.html#work) Professional project / Case study in development 
+[← Back to the collection](https://demi-studio.demihchong.workers.dev/index.html#work)
+
+Product or research image to add. Typographic cover shown for now.
+
+Professional · draft
 
 # LazLook
 
-Adapting a fashion shopping channel to the assortment and operational resources available.
+When the assortment changes the proposition.
 
-My contribution: local operations framework, stakeholder coordination, and expanding app entry points.
+My role Local operations & rollout Impact Outcome evidence to add
 
-This draft covers the context and my contribution. Selected evidence, outcomes, and reflections will be added as the case study develops.
+Adapting a fashion shopping channel to the assortment and resources available.
 
-[Context](https://demi-studio.demihchong.workers.dev/lazlook.html#context) [My contribution](https://demi-studio.demihchong.workers.dev/lazlook.html#contribution) [Decisions](https://demi-studio.demihchong.workers.dev/lazlook.html#decisions) [Outcomes](https://demi-studio.demihchong.workers.dev/lazlook.html#outcomes) [Learning](https://demi-studio.demihchong.workers.dev/lazlook.html#learning)
+## The context
 
-01 / Context 
+LazLook was a fashion shopping channel within Lazada. The initial focus on new arrivals was difficult to sustain with the available assortment.
 
-## The proposition and the constraint.
+## My contribution
 
-LazLook was a fashion shopping channel within Lazada. Its initial focus on new arrivals was difficult to sustain with the available assortment, so the proposition evolved toward trending items.
+I built and executed the local operations framework, coordinated with local and regional stakeholders, and worked on expanding app entry points. The regional product team owned the wider product solution.
 
-The case study will add more detail on the intended audience, the problem being addressed, and the evidence available to the team at the time.
+### Liner notes
 
-02 / My contribution 
+Focus on the link between the product proposition, assortment constraints, and local execution. This summary is not evidence of sole product ownership.
 
-## Making the channel work locally.
+### Show the working Evidence, annotations & decisions
 
-I built and executed the local operations framework, coordinated with local and regional stakeholders, and worked on expanding app entry points.
+Evidence slot
 
-The regional product team owned the wider product solution. This case study focuses on my contribution to local execution and the decisions I helped inform.
+An annotated operations plan or clearly labelled screen reconstruction will go here. Original interface visuals have not been added.
 
-Specific deliverables, collaborators, and ownership boundaries will be added alongside selected examples.
+Placeholder — not an original screenshot or a reconstruction.
 
-03 / Decisions 
+### Beside the evidence
 
-## Working within real constraints.
+- What this shows — to add.
 
-The shift from new arrivals to trending assortment is the starting point for this story. The next draft will explain the alternatives considered, the trade-offs, and my involvement in those choices.
+- What I owned — to add.
 
-Selected planning material or an annotated reconstruction to add.
+- What the team decided — to add.
 
-04 / Outcomes 
+## Before / change / after
 
-## What changed.
+Three frames for how the work evolved.
 
-Results will be added with their metric definitions, comparison periods, and context. This section will distinguish channel outcomes from the contribution of an individual initiative.
+Before
 
-No performance claims are included in this draft.
+### The starting point
 
-05 / Learning 
+New arrivals were the starting proposition; available assortment made that difficult to sustain.
 
-## Looking back.
+Change
 
-Personal reflection to add: what I learned about matching a product proposition to the assortment and resources available, and what I would approach differently.
+### The decision
 
-## More about my background.
+The proposition evolved toward trending items. The next draft will explain the alternatives, trade-offs, and my involvement.
 
-Experience, education, and interests.
+After
 
-[About me](https://demi-studio.demihchong.workers.dev/about.html)
+### What followed
+
+The revised direction is documented in this draft. Measured outcomes and supporting evidence are still to be added.
+
+## What I learned
+
+Personal reflection still to add. This section will explain what I would repeat, change, or investigate next.
+
+[Back to the records](https://demi-studio.demihchong.workers.dev/index.html#work) [More about my background](https://demi-studio.demihchong.workers.dev/about.html)
 
 ---
 Source: https://demi-studio.demihchong.workers.dev/lazlook.html

@@ -1,8 +1,8 @@
-# Demi studio
+Side A · Demi / Product management & strategy Understanding problems. Shaping what’s next. Side B · Outside work Soul dance / Popping
 
-Both sides of the homepage are included below.
+# Hi, I’m Demi!
 
-## Hi, I’m Demi!
+# Find the feeling. Follow it.
 
 I’m interested in product management roles where I can bring 8+ years of e-commerce product operations experience at Lazada. I’m now studying Product Management & UX Design, with a focus on search, discovery, and seller growth.
 
@@ -12,19 +12,59 @@ Outside work and class, I enjoy soul dance and popping. Soul, funk, R&B, and jaz
 
 [See the clips](https://demi-studio.demihchong.workers.dev/index.html#outside)
 
+Drag the record to spin it · Click it to flip
+
 - A/B test analysis
 
 - Funnel analysis
 
 - Cross-functional collaboration
 
-01 / The work 
+01 / The work
 
 ## On the record.
 
-- [A1 LazLook Fashion discovery · Local operations & rollout Case study draft · read the story](https://demi-studio.demihchong.workers.dev/lazlook.html)
+Browse the spines. Pull a record to open its story.
 
-- A2 Next chapter. Class project · title, brief & findings to add Future case study · coming soon
+[LazLook Pull to open](https://demi-studio.demihchong.workers.dev/lazlook.html)
+
+Professional · draft
+
+### [LazLook](https://demi-studio.demihchong.workers.dev/lazlook.html)
+
+Adapting a fashion shopping channel to the assortment and resources available.
+
+My role Local operations & rollout Impact Outcome evidence to add
+
+[Seller programmes Pull to open](https://demi-studio.demihchong.workers.dev/seller-programmes.html)
+
+Professional · draft
+
+### [Seller programmes](https://demi-studio.demihchong.workers.dev/seller-programmes.html)
+
+Pilot operations and promotional packages with commercial and regional teams.
+
+My role Product & seller operations Impact Results and comparison to add
+
+[Usability study Pull to open](https://demi-studio.demihchong.workers.dev/class-usability.html)
+
+Class project · slot
+
+### [Usability study](https://demi-studio.demihchong.workers.dev/class-usability.html)
+
+A place for a research question, testing observations, and the changes they informed.
+
+My role My role to add Impact Findings and revisions to add
+
+[Product exploration Pull to open](https://demi-studio.demihchong.workers.dev/class-product.html)
+
+Class project · slot
+
+### [Product exploration](https://demi-studio.demihchong.workers.dev/class-product.html)
+
+A place for a product problem, prototype iterations, and what changed after feedback.
+
+My role My role to add Impact Outcome and learning to add
 
 ## A little context?
 
@@ -32,7 +72,9 @@ The work is one part of the story.
 
 [Search & discovery](https://demi-studio.demihchong.workers.dev/about.html#search) [What I’m learning](https://demi-studio.demihchong.workers.dev/about.html#learning) [Outside work](https://demi-studio.demihchong.workers.dev/about.html#outside)
 
-02 / The other side 
+End of side A
+
+02 / The other side
 
 ## There’s usually music.
 
@@ -54,7 +96,9 @@ B2 / Popping Clip coming soon
 
 Dance clips coming soon.
 
-03 / Stay in touch 
+End of side B
+
+03 / Stay in touch
 
 ## Keep in touch.
 

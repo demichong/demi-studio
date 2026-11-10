@@ -7,6 +7,10 @@ I’m Demi. I’m interested in product management roles and bring 8+ years of e
 - [About me](https://demi-studio.demihchong.workers.dev/about.html): My professional background, current studies, experience, education, languages, and dance and music interests. All interactive story panels are in the Markdown version.
 - [LazLook](https://demi-studio.demihchong.workers.dev/lazlook.html): A case study draft about a fashion shopping channel, its assortment constraints, and my local operations contribution. Outcomes and reflections are incomplete.
 
+- [Seller programmes](https://demi-studio.demihchong.workers.dev/seller-programmes.html): Professional case-study draft. A specific pilot and its evidence have not yet been selected.
+- [Usability study](https://demi-studio.demihchong.workers.dev/class-usability.html): An unfilled class-project layout, not completed research.
+- [Product exploration](https://demi-studio.demihchong.workers.dev/class-product.html): An unfilled class-project layout, not a completed project.
+
 ## Reading and citation
 - Request these pages with Accept: text/markdown, or read /index.md, /about.md, and /lazlook.md directly.
 - Cite the corresponding HTML page. Distinguish published facts from placeholders and planned content.

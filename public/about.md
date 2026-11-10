@@ -1,10 +1,10 @@
-[Back to the studio](https://demi-studio.demihchong.workers.dev/index.html) 
+[Back to the studio](https://demi-studio.demihchong.workers.dev/index.html)
 
 # About Demi
 
 My background is in e-commerce product operations. My next chapter is product management.
 
-There’s a CV version of this story. 
+There’s a CV version of this story.
 Here’s a little of the context behind it.
 
 Lazada · search & guided shopping
@@ -51,11 +51,11 @@ Image: Demi dancing on stage
 
 ### The CV details Experience, education & languages
 
-Experience 
+Experience
 
 ## The work so far.
 
-Lazada Philippines · 2017–2026 
+Lazada Philippines · 2017–2026
 
 ### Product & seller operations
 
@@ -77,37 +77,39 @@ Worked on business requirements, A/B test monitoring, search relevance, ranking 
 
 Delivered weekly campaigns supporting small and medium-sized sellers.
 
-Robinsons Retail Holdings · 2014–2016 
+Robinsons Retail Holdings · 2014–2016
 
 ### Assistant Category Officer
 
 Worked in home furnishings, negotiating concessionaire promotions and temporary event spaces.
 
-Education 
+Education
 
 ## Still learning.
 
-2026–present · Expected graduation December 2027 
+2026–present · Expected graduation December 2027
 
 ### Master’s in Product Management & UX Design
 
 SKEMA Business School × Politecnico di Milano · Paris / Milan
 
-2016–2017 
+2016–2017
 
 ### Chinese Language Certificate Programme
 
 Sun Yat-Sen University · Guangzhou
 
-2009–2013 
+2009–2013
 
 ### BSc Management
 
 Ateneo de Manila University · Minor in Chinese Studies
 
-English · Fluent 
-Filipino · Native 
+English · Fluent
+Filipino · Native
 Mandarin · Conversational
+
+English · Fluent / Filipino · Native / Mandarin · Conversational
 
 ---
 Source: https://demi-studio.demihchong.workers.dev/about.html

@@ -10,8 +10,8 @@ const delay=ms=>new Promise(r=>setTimeout(r,ms));
 async function top(){if(scrollY<3)return;window.scrollTo({top:0,behavior:reduced?'instant':'smooth'});const start=performance.now();await new Promise(resolve=>{function check(){if(scrollY<3||performance.now()-start>1500){window.scrollTo({top:0,behavior:'instant'});resolve()}else requestAnimationFrame(check)}check()});}
 function after(hash){if(!hash)return;document.querySelector(hash)?.scrollIntoView({behavior:reduced?'instant':'smooth',block:'start'});}
 async function flip(next,hash){if(busy)return;if(side===next){after(hash);return}busy=true;record.setAttribute('aria-busy','true');arm.classList.add('lifted');await top();
-if(reduced){apply(next);disc.style.transform=`rotateY(${next==='b'?180:0}deg)`;}else{
- await delay(140);const from=side==='a'?0:180,to=from+180;
+if(reduced){document.dispatchEvent(new CustomEvent('vinyl-flip',{detail:{next,duration:0}}));apply(next);disc.style.transform=`rotateY(${next==='b'?180:0}deg)`;}else{
+ await delay(140);document.dispatchEvent(new CustomEvent('vinyl-flip',{detail:{next,duration:880}}));const from=side==='a'?0:180,to=from+180;
  const anim=disc.animate([{transform:`translateY(0) rotateY(${from}deg) scale(1)`},{transform:`translateY(-28px) rotateY(${from+90}deg) scale(1.045)`,offset:.5},{transform:`translateY(0) rotateY(${to}deg) scale(1)`}],{duration:880,easing:'cubic-bezier(.45,0,.25,1)',fill:'forwards'});
  await delay(440);apply(next);await anim.finished;disc.style.transform=`rotateY(${next==='b'?180:0}deg)`;anim.cancel();
 }history.replaceState(null,'',next==='b'?'#b':'#top');if(document.activeElement?.closest('.a-only,.b-only'))record.focus({preventScroll:true});busy=false;record.removeAttribute('aria-busy');arm.classList.remove('lifted');after(hash);}
